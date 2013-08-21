@@ -1,0 +1,41 @@
+{
+  "groupings": {
+
+  },
+  "recommendations": {
+
+  },
+  "platforms": {
+
+  },
+  "license": "Apache v2.0",
+  "maintainer": "yuanying",
+  "suggestions": {
+
+  },
+  "maintainer_email": "yuanying@3machinae.com",
+  "version": "0.1.0",
+  "conflicting": {
+
+  },
+  "description": "Configures nginx-site",
+  "providing": {
+    "bundler": [
+
+    ]
+  },
+  "name": "nginx-site",
+  "attributes": {
+
+  },
+  "long_description": "",
+  "recipes": {
+    "nginx-site": ""
+  },
+  "replacing": {
+
+  },
+  "dependencies": {
+    "nginx": ""
+  }
+}
